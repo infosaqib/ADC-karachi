@@ -4,9 +4,9 @@ if (!defined('CONFIG_LOADED')) {
 
     global $pdo;
     $servername = "localhost";
-    $username = "u311137911_wasimakramkrh";
-    $password = "Akram140@g";
-    $dbname = "u311137911_armykarachi";
+    $username = "";
+    $password = "";
+    $dbname = "";
     try {
         $pdo = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

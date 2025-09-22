@@ -1,0 +1,5 @@
+*.xml
+*.txt
+*.log
+*config.php
+*.env
