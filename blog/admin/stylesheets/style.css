@@ -1,0 +1,34 @@
+.box
+ {
+  width:100%;
+  max-width:600px;
+  background-color:#f9f9f9;
+  border:1px solid #ccc;
+  border-radius:5px;
+  padding:16px;
+  margin:0 auto;
+ }
+ .intro-text{
+    text-align: center;
+    margin: 20px 0;
+    color: #555;
+ }
+ .title-input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline:none;
+ }
+ .title-input:focus{
+    border: 1px solid rgb(55, 121, 235);
+ }
+ .ck-editor__editable[role="textbox"] {
+                /* editing area */
+                min-height: 300px;
+            }
+.error
+{
+  color:  red;
+}

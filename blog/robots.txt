@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /pages/
+
+
+# Disallow admin and private areas
+Disallow: /admin/
+
+
+# Sitemap locations
+Sitemap: https://blog.armydogcenter.org.pk/sitemap.xml
