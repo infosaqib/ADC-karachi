@@ -1,0 +1,17 @@
+scripts/
+.gemini/
+.cursor/
+images/
+rules/
+*.jpeg
+*.jpg
+*.gif
+*.png
+*.svg
+*.webp
+*.log
+*.tmp
+*.ps1
+*.bash
+*.mdc
+*.txt

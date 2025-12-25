@@ -1,0 +1,21 @@
+design php files mentioned in the URLs in files.txt file
+
+In files.txt file, the number mentioned with each city would be the priority number of each page
+priority number is that which is most used number of the page outside of contact numbers section
+
+In dog image section, pick image accordingly page priority number of a file and pick from /images/03003406220 and /images/03003006220
+
+if priority number is 03003006220, then pick image from /images/03003006220 and if priority number is 03003406220, then pick image from /images/03003406220
+
+write image src as https://armydogcenter.net.pk/images/services/punjab/{city}.{ext}
+
+replace {city} with page name (such as badin for badin.php) and replace {ext} with actual extension of image (e.g. badin.jpeg)
+
+for pages with priority number 03003406220 , contact numbers for that will be 03332874135 and 03003006220
+
+for pages with priority number 03003006220  , contact numbers for that will be 03003006220 and 03008977885 
+
+sample file for designing php pages is badin_sample_file.php
+Use powershell script to immediately make copies of this sample file accordingly our requirements
+
+At last, also rename the images in /images folder accordingly   

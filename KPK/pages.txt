@@ -1,0 +1,35 @@
+<li><a  href="https://services.armydogcenter.net.pk/peshawar.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER PESHAWAR | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/abbottabad.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER ABBOTTABAD | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mardan.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER MARDAN | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/swabi.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER SWABI | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/nowshera.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER NOWSHERA | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kohat.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER KOHAT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/haripur.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER HARIPUR | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mansehra.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER MANSEHRA | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/bannu.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER BANNU | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dera-ismail-khan.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER DERA ISMAIL KHAN | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/charsadda.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER CHARSADDA | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/swat.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER SWAT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/malakand.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER MALAKAND | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mingora.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER MINGORA | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/hangu.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER HANGU | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/karak.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER KARAK | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/lakki-marwat.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER LAKKI MARWAT | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/chitral.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER CHITRAL | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/batkhela.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER BATKHELA | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/upper-dir.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER UPPER DIR | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/lower-dir.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER LOWER DIR | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/haripur-hazara.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER HARIPUR HAZARA | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/khyber.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER KHYBER | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/frontier-region-kohat.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER FRONTIER REGION KOHAT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/murree.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER MURREE | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/islamabad.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER ISLAMABAD | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/rawalpindi.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER RAWALPINDI | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/army-dog-center.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/pakistan.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER PAKISTAN | 03008977885</a></li>
+<li><a href="https://services.armydogcenter.net.pk/jhelum.php" class="block px-4 py-2 bg-gray-200">ARMY DOG CENTER JHELUM | 03003006220</a></li>
+
+
+
+
+<li><a href="https://services.armydogcenter.net.pk/sann.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SANN | 03332874135</a></li>

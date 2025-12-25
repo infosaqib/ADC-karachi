@@ -1,0 +1,130 @@
+here, If some slugs of PHP files are repeated, then change the second repeated php file by placing -II before .php
+. For example, if pakistan.php is repeated, then the second time it will be pakistan-II.php, and same case for all files if repeated
+
+
+
+   <ul class="pl-4">
+                         <li><a href="https://services.armydogcenter.net.pk/pakistan.php" class="block px-4 py-2 hover:bg-gray-800 ">ARMY DOG CENTER PAKISTAN | 03332874135</a></li>
+                 <li><a href="https://services.armydogcenter.net.pk/malir-cantt-karachi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MALIR-CANTT-KARACHI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/karachi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KARACHI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/hub-chowki.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER HUB-CHOWKI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/hyderabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER HYDERABAD | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/hyderabad-cantt.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER HYDERABAD-CANTT | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/thatta.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER THATTA | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/badin.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER BADIN | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/badin-cantt.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER BADIN-CANTT | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mirpurkhas.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MIRPURKHAS | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/umerkot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER UMERKOT | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/chhor-cantt.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER CHHOR-CANTT | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/islamkot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER ISLAMKOT | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mithi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MITHI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sujawal.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SUJAWAL | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/quetta.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER QUETTA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/turbat.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER TURBAT | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/gwadar.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER GWADAR | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/resbela.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER RESBELA | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/chaman.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER CHAMAN | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mussa-khel.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MUSSA KHEL | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dera-bugti.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DERA BUGTI | 03003406220</a></li>
+<!--new 40 cities-->
+<li><a href="https://services.armydogcenter.net.pk/chuhar-jamali.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER CHUHAR JAMALI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/nawabshah.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER NAWABSHAH | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/jati.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER JATI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/moro.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MORO | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/golarchi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER GOLARCHI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dadu.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DADU | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/digri.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DIGRI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/wahipandi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER WAHIPANDI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/naukot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER NAUKOT | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/digbala.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DIGBALA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/diplo.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DIPLO | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/larkana.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER LARKANA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/tando-jam.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER TANDO JAM | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/shikarpur.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHIKARPUR | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sann.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SANN | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/jacobabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER JACOBABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/tharparkar.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER THARPARKAR | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/nasirabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER NASIRABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/tando-allahyar.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER TANDO ALLAHYAR | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sukkur.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SUKKUR | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/tando-azam.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER TANDO AZAM | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/naushahro-feroze.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER NAUSHAHRO FEROZE | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/keti-bandar.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KETI BANDAR | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/khairpur-mires.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KHAIRPUR MIRES | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/port-qasim-karachi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER PORT QASIM KARACHI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kandiaro.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KANDIARO | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/orangi-karachi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER ORANGI KARACHI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dokri.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DOKRI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/makli.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MAKLI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/shahdadkot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHAHDADKOT | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/jhampir.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER JHAMPIR | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/pano-aqil.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER PANO AQIL | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dhabe-ji.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DHABE JI | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/pano-aqil-cantt.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER PANO AQIL CANTT | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sanghar.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SANGHAR | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kashmore.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KASHMORE | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/khipro.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KHIPRO | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/daharki.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DAHARKI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/shahdadpur.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHAHDADPUR | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mirpur-mathelo.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MIRPUR MATHELO | 03003406220</a></li>
+<!--Provinces-->
+<li><a href="https://services.armydogcenter.net.pk/pakistan-II.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER PAKISTAN | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/army-dog-center.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER | 03003006220</a></li>
+<!--PUNJAB PROVINCE-->
+<li><a href="https://services.armydogcenter.net.pk/punjab.php" class="block px-4 py-2 hover:bg-gray-800 ">ARMY DOG CENTER PUNJAB | 03332874135</a></li>
+
+<li><a href="https://services.armydogcenter.net.pk/islamabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER ISLAMABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/rawalpindi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER RAWALPINDI | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mandra.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MANDRA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/gujar-khan.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER GUJAR KHAN | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kallar-syedan.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KALLAR SYEDAN | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sohawa.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SOHAWA | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dina.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DINA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/rohtas-fort.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER ROHTAS FORT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mangla.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MANGLA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/jhelum.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER JHELUM | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kharian.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KHARIAN | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kharian-cantt.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KHARIAN CANTT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/lalamusa.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER LALAMUSA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/deona-mandi.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DEONA MANDI | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/gujrat.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER GUJRAT | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/shadiwal.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHADIWAL | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/wazirabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER WAZIRABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/rahwali-cantt.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER RAHWALI CANTT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/gujranwala.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER GUJRANWALA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kala-shah-kaku.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KALA SHAH KAKU | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/lahore.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER LAHORE | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kasur.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER KASUR | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sheikhupura.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHEIKHUPURA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/hafizabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER HAFIZABAD | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mananwala.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MANANWALA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/shahkot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHAHKOT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sangla-hill.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SANGLA HILL | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mandi-bahauddin.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MANDI BAHAUDDIN | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/okara.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER OKARA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sahiwal.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SAHIWAL | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/haroonabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER HAROONABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/minchnabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MINCHNABAD | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/faisalabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER FAISALABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/chiniot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER CHINIOT | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sargodha.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SARGODHA | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/jhang.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER JHANG | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/shorkot.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SHORKOT | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dera-ismail-khan.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DERA ISMAIL KHAN | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mainwali.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MAINWALI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/layyah.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER LAYYAH | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/multan.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MULTAN | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/dera-ghazi-khan.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DERA GHAZI KHAN | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/bahawalpur.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER BAHAWALPUR | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/rahim-yar-khan.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER RAHIM YAR KHAN | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/sadqabad.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER SADQABAD | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/ubauro.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER UBAURO | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/daharki-II.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER DAHARKI | 03003406220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/mirpur-mathelo-II.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ARMY DOG CENTER MIRPUR MATHELO | 03003006220</a></li>
+
+
+<!--Other PROVINCES-->
+<li><a href="https://services.armydogcenter.net.pk/sindh.php" class="block px-4 py-2 hover:bg-gray-800 ">ARMY DOG CENTER SINDH | 03003006220</a></li>
+<li><a href="https://services.armydogcenter.net.pk/kpk.php" class="block px-4 py-2 hover:bg-gray-800 ">ARMY DOG CENTER KPK | 03332874135</a></li>
+<li><a href="https://services.armydogcenter.net.pk/balochistan.php" class="block px-4 py-2 hover:bg-gray-800 ">ARMY DOG CENTER BALOCHISTAN | 03003406220</a></li>
+ </ul>
