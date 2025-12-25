@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- SEO Optimization -->
-    <title>Army Dog Center Daharki | 03003006220</title>
+    <title>Army Dog Center KPK | 03003006220</title>
     <meta name="description"
         content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔" />
     <meta name="robots" content="index, follow" />
@@ -16,17 +16,17 @@
     <meta name="google-site-verification" content="" />
 
     <!-- Open Graph / Social Media -->
-    <meta property="og:title" content="Army Dog Center Daharki | 03003006220" />
+    <meta property="og:title" content="Army Dog Center KPK | 03003006220" />
     <meta property="og:description"
         content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔" />
-    <meta property="og:url" content="https://services.armydogcenter.net.pk/daharki.php" />
+    <meta property="og:url" content="https://services.armydogcenter.net.pk/kpk.php" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://armydogcenter.net.pk/images/card-2.jpeg" />
-    <meta property="og:site_name" content="Army Dog Center Daharki | 03003006220" />
+    <meta property="og:site_name" content="Army Dog Center KPK | 03003006220" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Army Dog Center Daharki | 03003006220" />
+    <meta name="twitter:title" content="Army Dog Center KPK | 03003006220" />
     <meta name="twitter:description"
         content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔" />
     <meta name="twitter:image" content="https://armydogcenter.net.pk/images/card-4.jpeg" />
@@ -34,7 +34,7 @@
     <!-- Favicon -->
     <link rel="icon" href="https://armydogcenter.net.pk/images/newlogo.png" type="image/webp" />
     <link rel="apple-touch-icon" href="https://armydogcenter.net.pk/images/newlogo.png" />
-    <link rel="canonical" href="https://services.armydogcenter.net.pk/daharki.php" />
+    <link rel="canonical" href="https://services.armydogcenter.net.pk/kpk.php" />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -71,20 +71,20 @@
         "@graph": [
           {
             "@type": "WebSite",
-            "name": "Army Dog Center Daharki",
-            "url": "https://services.armydogcenter.net.pk/daharki.php",
+            "name": "Army Dog Center KPK",
+            "url": "https://services.armydogcenter.net.pk/kpk.php",
             "potentialAction": {
               "@type": "SearchAction",
-              "target": "https://services.armydogcenter.net.pk/daharki.php",
+              "target": "https://services.armydogcenter.net.pk/kpk.php",
               "query-input": "required name=armydogcenter"
             }
           },
           {
             "@type": "WebPage",
-            "@id": "https://services.armydogcenter.net.pk/daharki.php#webpage",
-            "url": "https://services.armydogcenter.net.pk/daharki.php",
-            "name": "Army Dog Center Daharki | Professional Dog Services",
-            "description": "We provide professional dog services in Daharki including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
+            "@id": "https://services.armydogcenter.net.pk/kpk.php#webpage",
+            "url": "https://services.armydogcenter.net.pk/kpk.php",
+            "name": "Army Dog Center KPK | Professional Dog Services",
+            "description": "We provide professional dog services in Khyber Pakhtunkhwa including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
             "about": { "@id": "https://armydogcenter.net.pk/#organization" },
             "inLanguage": "en-US"
           }
@@ -104,7 +104,7 @@
                 ARMY DOG CENTER
             </h1>
             <h2 class="text-3xl md:text-4xl font-semibold">
-                DAHARKI <br> 03003006220
+                KPK <br> 03003006220
             </h2>
         </div>
     </header>
@@ -119,7 +119,7 @@
                 robbery, murder, and abduction.
             </p>
             <p class="text-gray-700 font-medium">
-                We at Army Dog Center Daharki are ready to serve you 24/7. Contact us
+                We at Army Dog Center KPK are ready to serve you 24/7. Contact us
                 for immediate assistance:
             </p>
         </div>
@@ -179,7 +179,7 @@
                 <div class="flex justify-center">
                     <div
                         class="h-full w-88 relative group overflow-hidden rounded-xl shadow-xl transform transition-transform duration-300 hover:scale-105">
-                        <img src="https://armydogcenter.net.pk/images/services/daharki.jpg" alt="German Shepherd Dog"
+                        <img src="https://armydogcenter.net.pk/images/kpk.jpg" alt="German Shepherd Dog"
                             class="w-full h-full object-cover" />
                         <div
                             class="absolute inset-0 bg-gradient-to-t from-teal-500 to-transparent opacity-0 group-hover:opacity-70 transition-opacity duration-300">

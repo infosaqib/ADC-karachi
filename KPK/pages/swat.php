@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,34 +7,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- SEO Optimization -->
-    <title>Army Dog Center Daharki | 03003006220</title>
-    <meta name="description"
-        content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔" />
+    <title>Army Dog Center Swat | 03003006220</title>
+    <meta name="description" content="        
+             چوری، ڈکیتی، قتل اور اغوا جیسے جرائم کے خلاف فوری مدد کے لیے ہمہ وقت دستیاب۔ ہمارے ماہر کتے جرائم کے نشانات ڈھونڈنے اور اہم شواہد فراہم کرنے میں مددگار ثابت ہوتے ہیں۔ ہم 24/7 ہر جگہ خدمات فراہم کرتے ہیں تاکہ آپ کو مکمل تحفظ اور اطمینان حاصل ہو۔
+             
+            ">
     <meta name="robots" content="index, follow" />
 
     <!-- Google Site Verification -->
     <meta name="google-site-verification" content="" />
 
     <!-- Open Graph / Social Media -->
-    <meta property="og:title" content="Army Dog Center Daharki | 03003006220" />
-    <meta property="og:description"
-        content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔" />
-    <meta property="og:url" content="https://services.armydogcenter.net.pk/daharki.php" />
+    <meta property="og:title" content="Army Dog Center Swat | 03003006220" />
+    <meta property="og:description" content="        
+             چوری، ڈکیتی، قتل اور اغوا جیسے جرائم کے خلاف فوری مدد کے لیے ہمہ وقت دستیاب۔ ہمارے ماہر کتے جرائم کے نشانات ڈھونڈنے اور اہم شواہد فراہم کرنے میں مددگار ثابت ہوتے ہیں۔ ہم 24/7 ہر جگہ خدمات فراہم کرتے ہیں تاکہ آپ کو مکمل تحفظ اور اطمینان حاصل ہو۔
+             
+            ">
+    <meta property="og:url" content="https://services.armydogcenter.org.pk/swat.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://armydogcenter.net.pk/images/card-2.jpeg" />
-    <meta property="og:site_name" content="Army Dog Center Daharki | 03003006220" />
-
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Army Dog Center Daharki | 03003006220" />
-    <meta name="twitter:description"
-        content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔" />
-    <meta name="twitter:image" content="https://armydogcenter.net.pk/images/card-4.jpeg" />
+    <meta property="og:image" content="https://armydogcenter.org.pk/images/services/kpk/swat.jpeg" />
+    <meta property="og:site_name" content="Army Dog Center Pakistan" />
+    <meta name="twitter:description" content="        
+             چوری، ڈکیتی، قتل اور اغوا جیسے جرائم کے خلاف فوری مدد کے لیے ہمہ وقت دستیاب۔ ہمارے ماہر کتے جرائم کے نشانات ڈھونڈنے اور اہم شواہد فراہم کرنے میں مددگار ثابت ہوتے ہیں۔ ہم 24/7 ہر جگہ خدمات فراہم کرتے ہیں تاکہ آپ کو مکمل تحفظ اور اطمینان حاصل ہو۔
+             
+            ">
+    <meta name="twitter:image" content="https://armydogcenter.org.pk/images/services/kpk/swat.jpeg" />
 
     <!-- Favicon -->
-    <link rel="icon" href="https://armydogcenter.net.pk/images/newlogo.png" type="image/webp" />
-    <link rel="apple-touch-icon" href="https://armydogcenter.net.pk/images/newlogo.png" />
-    <link rel="canonical" href="https://services.armydogcenter.net.pk/daharki.php" />
+    <link rel="icon" href="https://armydogcenter.org.pk/images/logo.webp" type="image/webp" />
+    <link rel="apple-touch-icon" href="https://armydogcenter.org.pk/images/logo.webp" />
+    <link rel="canonical" href="https://services.armydogcenter.org.pk/swat.php" />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -66,61 +68,93 @@
 
     <!-- Schema Markup -->
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebSite",
-            "name": "Army Dog Center Daharki",
-            "url": "https://services.armydogcenter.net.pk/daharki.php",
-            "potentialAction": {
-              "@type": "SearchAction",
-              "target": "https://services.armydogcenter.net.pk/daharki.php",
-              "query-input": "required name=armydogcenter"
+    {
+        "@context":"https://schema.org",
+        "@graph":[
+            {
+                "@type":"Organization",
+                "@id":"https://armydogcenter.org.pk/#organization",
+                "name":"Army Dog Center Pakistan",
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "telephone": "+923001690800",
+                    "contactType": "customer service"
+                },
+                "description": "Premier facility for military working dog training, care, and rehabilitation"
+            },
+            {
+                "@type":"WebSite",
+                "@id":"https://armydogcenter.org.pk/#website",
+                "url":"https://armydogcenter.org.pk",
+                "name":"Army Dog Center Pakistan",
+                "publisher":{"@id":"https://armydogcenter.org.pk/#organization"},
+                "inLanguage":"en-US"
+            },
+            {
+                "@type":"WebPage",
+                "@id":"https://services.armydogcenter.org.pk/swat.php#webpage",
+                "url":"https://services.armydogcenter.org.pk/swat.php",
+                "name":"Army Dog Center Swat",
+                "description":"Professional dog services in Swat including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
+                "about":{"@id":"https://armydogcenter.org.pk/#organization"},
+                "inLanguage":"en-US"
             }
-          },
-          {
-            "@type": "WebPage",
-            "@id": "https://services.armydogcenter.net.pk/daharki.php#webpage",
-            "url": "https://services.armydogcenter.net.pk/daharki.php",
-            "name": "Army Dog Center Daharki | Professional Dog Services",
-            "description": "We provide professional dog services in Daharki including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
-            "about": { "@id": "https://armydogcenter.net.pk/#organization" },
-            "inLanguage": "en-US"
-          }
         ]
-      }
+    }
     </script>
 </head>
-<!-- Footer -->
+<!-- Header Section -->
 <?php include_once("../includes/header.php"); ?>
 
 <body class="bg-gray-50 font-sans">
     <!-- Header Section with Enhanced Gradient -->
     <header class=" text-white p-8 text-center shadow-lg h-[35vh] flex items-center justify-center"
-        style="background: url('https://armydogcenter.net.pk/images/herologo.jpeg') center/cover no-repeat;">
+        style="background: url('https://armydogcenter.org.pk/images/herologo.jpg') center/cover no-repeat;">
         <div class="container mx-auto">
             <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2">
                 ARMY DOG CENTER
             </h1>
             <h2 class="text-3xl md:text-4xl font-semibold">
-                DAHARKI <br> 03003006220
+                <b>Swat</b> <br> <b>03003006220</b>
             </h2>
         </div>
     </header>
 
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto p-4 md:p-8">
+
+        <!-- Dog Image Section -->
+        <div data-aos="fade-up" class="mb-10">
+            <div class="bg-white p-2 rounded-xl shadow-md">
+                <h3 class="text-2xl font-bold text-teal-500 mb-6 text-center">
+                    Our Trained Dogs in Swat
+                </h3>
+                <div class="flex justify-center">
+                    <div
+                        class="h-full w-88 relative group overflow-hidden rounded-xl shadow-xl transform transition-transform duration-300 hover:scale-105">
+                        <img src="https://armydogcenter.org.pk/images/services/kpk/swat.jpeg" alt="German Shepherd Dog"
+                            class="w-full h-full object-cover" />
+                        <div
+                            class="absolute inset-0 bg-gradient-to-t from-teal-500 to-transparent opacity-0 group-hover:opacity-70 transition-opacity duration-300">
+                        </div>
+                        <div
+                            class="absolute bottom-0 left-0 right-0 p-4 text-white transform translate-y-full group-hover:translate-y-0 transition-transform duration-300">
+                            <h4 class="text-xl font-bold">German Shepherd Dog - Swat</h4>
+                            <p class="text-sm">
+                                Our highly trained dogs are experts in detection and tracking in Swat
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Service Description -->
         <div data-aos="fade-up" class="mb-10 p-6 text-xl font-medium">
 
             <p class="text-gray-700 mb-4 leading-relaxed">
-                We are always ready to respond immediately to crimes like theft,
-                robbery, murder, and abduction.
-            </p>
-            <p class="text-gray-700 font-medium">
-                We at Army Dog Center Daharki are ready to serve you 24/7. Contact us
-                for immediate assistance:
+                We are always ready to respond immediately to crimes like theft, robbery, murder, and abduction.
+                Our trained dogs play a vital role in detecting traces of criminal activity and uncovering key evidence.
+                We provide 24/7 services across all areas to ensure your safety and peace of mind.
             </p>
         </div>
 
@@ -167,41 +201,18 @@
                             </svg>
                         </span>
                     </a>
+
                 </div>
             </div>
         </div>
-        <!-- Dog Image Section -->
-        <div data-aos="fade-up" class="mb-10">
-            <div class="bg-white p-2 rounded-xl shadow-md">
-                <h3 class="text-2xl font-bold text-teal-500 mb-6 text-center">
-                    Our Trained Dogs
-                </h3>
-                <div class="flex justify-center">
-                    <div
-                        class="h-full w-88 relative group overflow-hidden rounded-xl shadow-xl transform transition-transform duration-300 hover:scale-105">
-                        <img src="https://armydogcenter.net.pk/images/services/daharki.jpg" alt="German Shepherd Dog"
-                            class="w-full h-full object-cover" />
-                        <div
-                            class="absolute inset-0 bg-gradient-to-t from-teal-500 to-transparent opacity-0 group-hover:opacity-70 transition-opacity duration-300">
-                        </div>
-                        <div
-                            class="absolute bottom-0 left-0 right-0 p-4 text-white transform translate-y-full group-hover:translate-y-0 transition-transform duration-300">
-                            <h4 class="text-xl font-bold">Professional K-9 Unit</h4>
-                            <p class="text-sm">
-                                Our highly trained dogs are experts in detection and tracking
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
 
         <!-- Services Grid with Checkmarks -->
         <div data-aos="fade-up" class="mb-10">
             <div class="bg-white rounded-xl shadow-md overflow-hidden">
                 <div class="bg-gradient-to-r from-teal-500 to-teal-300 py-4 px-6">
                     <h3 class="text-white text-center text-2xl font-bold">
-                        Our Professional Services
+                        Our Professional Services in Swat
                     </h3>
                 </div>
 
@@ -326,15 +337,15 @@
         <div data-aos="fade-up" class="mb-10">
             <div class="bg-gradient-to-r from-teal-500 to-teal-300 rounded-xl p-8 shadow-lg text-center">
                 <h3 class="text-white text-2xl font-bold mb-4">
-                    Need Professional Dog Services?
+                    Need Professional Dog Services in Swat?
                 </h3>
                 <p class="text-cyan-100 mb-6 max-w-lg mx-auto">
-                    Our team is available 24/7 to assist with any emergency situation.
+                    Our team is available 24/7 to assist with any emergency situation in Swat.
                     Contact us now for immediate response.
                 </p>
                 <a href="tel:03003006220"
-                    class="inline-block bg-white text-teal-500 font-bold py-3 px-8 rounded-lg shadow-md hover:bg-cyan-50 transition duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-                    Call Now
+                    class="inline-block bg-white text-teal-500 font-bold py-3 px-8 rounded-lg shadow-md hover:bg-cyan-50 transition duration-300 transform hover:-translate-y-1 hover:shadow-lg">Call
+                    Now
                 </a>
             </div>
         </div>
