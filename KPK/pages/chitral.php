@@ -141,7 +141,7 @@
           ARMY DOG CENTER
         </h1>
         <h2 class="text-3xl md:text-4xl font-semibold">
-          CHITRAL <br> 03003406220
+          CHITRAL <br> 03332874135
         </h2>
       </div>
     </header>
@@ -177,7 +177,7 @@
           </h3>
           <div class="flex flex-wrap justify-center gap-4 md:gap-6 text-2xl">
             <a
-              href="tel:03332874135"
+              href="tel:03003006220"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -194,7 +194,7 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-              <span>03332874135</span>
+              <span>03003006220</span>
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >
@@ -213,7 +213,7 @@
               </span>
             </a>
             <a
-              href="tel:03332874135"
+              href="tel:03003406220"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -230,7 +230,7 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-              <span>03332874135</span>
+              <span>03003406220</span>
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >

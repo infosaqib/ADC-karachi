@@ -176,43 +176,7 @@
             Contact Numbers
           </h3>
           <div class="flex flex-wrap justify-center gap-4 md:gap-6 text-2xl">
-            <a
-              href="tel:03003406220"
-              class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="h-5 w-5 mr-3"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
-                />
-              </svg>
-              <span>03003406220</span>
-              <span
-                class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  class="h-5 w-5"
-                  viewBox="0 0 20 20"
-                  fill="currentColor"
-                >
-                  <path
-                    fill-rule="evenodd"
-                    d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z"
-                    clip-rule="evenodd"
-                  />
-                </svg>
-              </span>
-            </a>
-            <a
+             <a
               href="tel:03003006220"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
@@ -248,6 +212,43 @@
                 </svg>
               </span>
             </a>
+               <a
+              href="tel:03456826761"
+              class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-5 w-5 mr-3"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
+                />
+              </svg>
+              <span>03456826761</span>
+              <span
+                class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </a>
+        
           </div>
         </div>
       </div>
