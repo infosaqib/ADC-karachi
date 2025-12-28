@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- SEO Optimization -->
-    <title>Army Dog Center DERA ISMAIL KHAN | 03332874135</title>
+    <title>Army Dog Center PAKISTAN | 03003406220</title>
     <meta
       name="description"
       content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔"
@@ -22,7 +22,7 @@
     <!-- Open Graph / Social Media -->
     <meta
       property="og:title"
-      content="Army Dog Center DERA ISMAIL KHAN | 03332874135"
+      content="Army Dog Center PAKISTAN | 03003406220"
     />
     <meta
       property="og:description"
@@ -30,7 +30,7 @@
     />
     <meta
       property="og:url"
-      content="https://services.armydogcenter.net.pk/DERA ISMAIL KHAN.php"
+      content="https://services.armydogcenter.net.pk/pakistan-III.php"
     />
     <meta property="og:type" content="website" />
     <meta
@@ -39,14 +39,14 @@
     />
     <meta
       property="og:site_name"
-      content="Army Dog Center DERA ISMAIL KHAN | 03332874135"
+      content="Army Dog Center PAKISTAN | 03003406220"
     />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
     <meta
       name="twitter:title"
-      content="Army Dog Center DERA ISMAIL KHAN | 03332874135"
+      content="Army Dog Center PAKISTAN | 03003406220"
     />
     <meta
       name="twitter:description"
@@ -69,7 +69,7 @@
     />
     <link
       rel="canonical"
-      href="https://services.armydogcenter.net.pk/DERA ISMAIL KHAN.php"
+      href="https://services.armydogcenter.net.pk/pakistan-III.php"
     />
 
     <!-- Google Fonts -->
@@ -109,20 +109,20 @@
         "@graph": [
           {
             "@type": "WebSite",
-            "name": "Army Dog Center DERA ISMAIL KHAN",
-            "url": "https://services.armydogcenter.net.pk/DERA ISMAIL KHAN.php",
+            "name": "Army Dog Center PAKISTAN",
+            "url": "https://services.armydogcenter.net.pk/pakistan-III.php",
             "potentialAction": {
               "@type": "SearchAction",
-              "target": "https://services.armydogcenter.net.pk/DERA ISMAIL KHAN.php",
+              "target": "https://services.armydogcenter.net.pk/pakistan-III.php",
               "query-input": "required name=armydogcenter"
             }
           },
           {
             "@type": "WebPage",
-            "@id": "https://services.armydogcenter.net.pk/DERA ISMAIL KHAN.php#webpage",
-            "url": "https://services.armydogcenter.net.pk/DERA ISMAIL KHAN.php",
-            "name": "Army Dog Center DERA ISMAIL KHAN",
-            "description": "We provide professional dog services in DERA ISMAIL KHAN including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
+            "@id": "https://services.armydogcenter.net.pk/pakistan-III.php#webpage",
+            "url": "https://services.armydogcenter.net.pk/pakistan-III.php",
+            "name": "Army Dog Center PAKISTAN",
+            "description": "We provide professional dog services in PAKISTAN including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
             "about": { "@id": "https://armydogcenter.net.pk/#organization" },
             "inLanguage": "en-US"
           }
@@ -141,7 +141,7 @@
           ARMY DOG CENTER
         </h1>
         <h2 class="text-3xl md:text-4xl font-semibold">
-          DERA ISMAIL KHAN <br> 03003406220
+          PAKISTAN <br> 03003406220
         </h2>
       </div>
     </header>
@@ -159,7 +159,7 @@
           robbery, murder, and abduction.
         </p>
         <p class="text-gray-700 font-medium">
-          We at Army Dog Center DERA ISMAIL KHAN are ready to serve you 24/7. Contact us
+          We at Army Dog Center PAKISTAN are ready to serve you 24/7. Contact us
           for immediate assistance:
         </p>
       </div>
@@ -177,7 +177,7 @@
           </h3>
           <div class="flex flex-wrap justify-center gap-4 md:gap-6 text-2xl">
             <a
-              href="tel:03332874135"
+              href="tel:03003406220"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -194,7 +194,7 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-              <span>03332874135</span>
+              <span>03003406220</span>
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >
@@ -213,7 +213,7 @@
               </span>
             </a>
             <a
-              href="tel:03332874135"
+              href="tel:03003006220"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -230,7 +230,7 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-              <span>03332874135</span>
+              <span>03003006220</span>
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >
@@ -262,7 +262,7 @@
              class="h-full w-88 relative group overflow-hidden rounded-xl shadow-xl transform transition-transform duration-300 hover:scale-105"
             >
               <img
-                src="https://www.armydogcenter.net.pk/images/services/kpk/dera-ismail-khan-II.jpeg"
+                src="https://www.armydogcenter.net.pk/images/services/kpk/pakistan-III.jpeg"
                 alt="German Shepherd Dog"
                 class="w-full h-full object-cover"
               />
@@ -509,7 +509,7 @@
             Contact us now for immediate response.
           </p>
           <a
-            href="tel:03332874135"
+            href="tel:03003406220"
             class="inline-block bg-white text-teal-500 font-bold py-3 px-8 rounded-lg shadow-md hover:bg-cyan-50 transition duration-300 transform hover:-translate-y-1 hover:shadow-lg"
           >
             Call Now

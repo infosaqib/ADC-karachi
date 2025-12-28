@@ -15,3 +15,16 @@ rules/
 *.bash
 *.mdc
 *.txt
+*.json
+*.yml
+nodemodules/
+.DS_Store
+.vscode/
+.husky/
+node_modules/
+# Dependencies
+package-lock.json
+package.json
+yarn.lock
+.pnpm-lock.yaml
+commitlint.config.js
