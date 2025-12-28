@@ -1,63 +1,70 @@
-# PowerShell script to rename images based on city names
+# PowerShell script to rename images according to city names
+# Images should be renamed: {city}.jpeg in the appropriate folder based on priority
 
-# Read pages.txt and get last 3 entries
-$pagesContent = Get-Content "pages.txt"
-$last3Entries = $pagesContent[-3..-1]
+Write-Host "Renaming images according to city names..." -ForegroundColor Green
+Write-Host ""
 
-# Function to extract city name and priority from a line
-function Extract-CityInfo {
-    param($line)
+# Define which cities use which image folder based on priority
+$imageMapping = @{
+    "peshawar" = @{
+        Folder = "images\03003406220"
+        Priority = "03003406220"
+    }
+    "abbottabad" = @{
+        Folder = "images\03332874135"
+        Priority = "03332874135"
+    }
+    "mardan" = @{
+        Folder = "images\03003406220"
+        Priority = "03003406220"
+    }
+}
+
+foreach ($city in $imageMapping.Keys) {
+    $folder = $imageMapping[$city].Folder
+    $targetName = "$city.jpeg"
+    $targetPath = Join-Path $folder $targetName
     
-    if ($line -match 'href="https://services\.armydogcenter\.org\.pk/([^"]+)\.php".*\| (\d+)') {
-        $cityFile = $matches[1]
-        $priority = $matches[2]
-        return @{
-            CityFile = $cityFile
-            Priority = $priority
-        }
+    Write-Host "Processing $city..." -ForegroundColor Yellow
+    Write-Host "  Folder: $folder" -ForegroundColor Cyan
+    Write-Host "  Target: $targetName" -ForegroundColor Cyan
+    
+    if (-not (Test-Path $folder)) {
+        Write-Host "  ERROR: Folder not found!" -ForegroundColor Red
+        continue
     }
-    return $null
+    
+    # Check if target already exists
+    if (Test-Path $targetPath) {
+        Write-Host "  [OK] Image already exists: $targetName" -ForegroundColor Green
+        continue
+    }
+    
+    # Find first available image in folder
+    $images = Get-ChildItem $folder -Filter "*.jpeg" | Sort-Object Name
+    if ($images.Count -eq 0) {
+        Write-Host "  WARNING: No images found in folder" -ForegroundColor Yellow
+        continue
+    }
+    
+    # Use first image that's not already a city name
+    $sourceImage = $images | Where-Object { $_.Name -notmatch '^(peshawar|abbottabad|mardan)\.jpeg$' } | Select-Object -First 1
+    
+    if (-not $sourceImage) {
+        Write-Host "  WARNING: No suitable image to rename (all may already be city names)" -ForegroundColor Yellow
+        continue
+    }
+    
+    Write-Host "  Renaming: $($sourceImage.Name) -> $targetName" -ForegroundColor Cyan
+    try {
+        Rename-Item -Path $sourceImage.FullName -NewName $targetName -ErrorAction Stop
+        Write-Host "  [OK] Successfully renamed" -ForegroundColor Green
+    } catch {
+        Write-Host "  ERROR: Failed to rename - $($_.Exception.Message)" -ForegroundColor Red
+    }
+    
+    Write-Host ""
 }
 
-# Process each of the last 3 entries
-foreach ($entry in $last3Entries) {
-    $info = Extract-CityInfo $entry
-    if ($info) {
-        $cityFile = $info.CityFile
-        $priority = $info.Priority
-        $imageFolder = "images\$priority"
-        $targetImage = "$imageFolder\$cityFile.jpeg"
-        
-        Write-Host "Processing: $cityFile (Priority: $priority)"
-        
-        # Check if image folder exists
-        if (Test-Path $imageFolder) {
-            # Get first available image in the folder
-            $images = Get-ChildItem -Path $imageFolder -Filter "*.jpeg" | Sort-Object Name
-            if ($images.Count -gt 0) {
-                $firstImage = $images[0]
-                $sourcePath = $firstImage.FullName
-                
-                # Check if target already exists
-                if (Test-Path $targetImage) {
-                    Write-Host "  Image already exists: $targetImage"
-                } else {
-                    # Rename the image
-                    Rename-Item -Path $sourcePath -NewName "$cityFile.jpeg" -ErrorAction SilentlyContinue
-                    if ($?) {
-                        Write-Host "  Renamed: $($firstImage.Name) -> $cityFile.jpeg"
-                    } else {
-                        Write-Host "  Failed to rename: $($firstImage.Name)"
-                    }
-                }
-            } else {
-                Write-Host "  No images found in: $imageFolder"
-            }
-        } else {
-            Write-Host "  Folder not found: $imageFolder"
-        }
-    }
-}
-
-Write-Host "`nImage renaming completed!"
+Write-Host "Done!" -ForegroundColor Green
 

@@ -1,21 +1,19 @@
----
-alwaysApply: false
----
+
 design php files only in pages folder mentioned in the URLs in pages.txt file
 
 In pages.txt file, the number mentioned with each city would be the priority number of each page
 
 Keep in mind priority number is that which is most used number of the page outside of contact numbers section
 
-for pages with priority number 03008977885 , contact numbers for that will be 03003006220 and 03332874135
+for pages with priority number 03003406220 , contact numbers for that will be 03332874135 and 03003006220
 
-for pages with priority number 03003006220  , contact numbers for that will be 03332874135 and 03003406220
+for pages with priority number 03332874135  , contact numbers for that will be 03003006220 and 03003406220
 
-In dog image section, pick image accordingly page priority number of a file and pick from /images/03008977885 and /images/03003006220
+In dog image section, pick image accordingly page priority number of a file and pick from /images/03332874135 and /images/03003406220
 
-if priority number is 03003006220, then rename image in /images/03003006220 folder and if priority number is 03008977885, then rename image in /images/03008977885 folder
+if priority number is 03003406220, then rename image in /images/03003406220 folder and if priority number is 03332874135, then rename image in /images/03332874135 folder
 
-write image src as https://www.armydogcenter.org.pk/images/services/kpk/{city}.jpeg
+write image src as https://www.armydogcenter.net.pk/images/services/kpk/{city}.jpeg
 
 replace {city} with page name such as badin.jpeg for badin.php page
 
@@ -25,6 +23,7 @@ sample file for designing php pages is badin.php
 create and use powershell script to immediately make copies of this sample file accordingly our requirements
 
 keep scripts in scripts folder
+
 At last, also rename the images in /images folder accordingly using powershell script, if images are renamed incorrectly then correct them
 
-First make the last three files of lists in pages.txt in pages folder, i will approve and then you will create remaining pages
+First make the first three files of lists in pages.txt in pages folder, i will approve and then you will create remaining pages

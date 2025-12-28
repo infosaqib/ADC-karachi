@@ -1,104 +1,102 @@
 # PowerShell script to create PHP pages from badin.php template
+# Reads pages.txt and creates pages in pages folder
 
-# Read pages.txt and get last 3 entries
-$pagesContent = Get-Content "pages.txt"
-$last3Entries = $pagesContent[-3..-1]
+$templateFile = "badin.php"
+$pagesFile = "pages.txt"
+$pagesFolder = "pages"
+$limit = 3  # Only process first 3 pages for now
 
-# Function to extract city name and priority from a line
-function Extract-CityInfo {
-    param($line)
+# Ensure pages folder exists
+if (-not (Test-Path $pagesFolder)) {
+    New-Item -ItemType Directory -Path $pagesFolder
+}
+
+# Read pages.txt
+$lines = Get-Content $pagesFile
+$count = 0
+
+foreach ($line in $lines) {
+    if ($count -ge $limit) { break }
     
-    if ($line -match 'href="https://services\.armydogcenter\.org\.pk/([^"]+)\.php".*\| (\d+)') {
-        $cityFile = $matches[1]
-        $priority = $matches[2]
-        return @{
-            CityFile = $cityFile
-            Priority = $priority
+    # Extract city name and priority number from line
+    # Format: <li><a href="https://services.armydogcenter.net.pk/{city}.php" ...>ARMY DOG CENTER {CITY} | {PRIORITY}</a></li>
+    
+    if ($line -match 'href="https://services\.armydogcenter\.net\.pk/([^"]+)\.php".*ARMY DOG CENTER ([^|]+) \| (\d+)') {
+        $phpFileName = $matches[1]
+        $cityName = $matches[2].Trim()
+        $priorityNumber = $matches[3]
+        
+        Write-Host "Processing: $cityName (Priority: $priorityNumber, File: $phpFileName.php)"
+        
+        # Determine second contact number based on priority
+        # Rules: 
+        # - Priority 03003406220: contacts = 03332874135, 03003006220 (we'll use 03003006220 as second)
+        # - Priority 03332874135: contacts = 03003006220, 03003406220 (we'll use 03003006220 as second)
+        $secondContact = "03003006220"
+        
+        # Read template file
+        $content = Get-Content $templateFile -Raw
+        
+        # Replace priority number in header FIRST (before city name replacement)
+        $content = $content -replace 'BADIN <br> 03003406220', "$($cityName.ToUpper()) <br> $priorityNumber"
+        
+        # Replace city names
+        $content = $content -replace "Badin", $cityName
+        $content = $content -replace "BADIN", $cityName.ToUpper()
+        $content = $content -replace "badin\.php", "$phpFileName.php"
+        $content = $content -replace "/badin\.php", "/$phpFileName.php"
+        $content = $content -replace "badin", $phpFileName
+        
+        # Replace priority number in specific contexts (not in contact spans yet)
+        # Replace in title
+        $content = $content -replace 'Army Dog Center [^|]+\| 03003406220', "Army Dog Center $cityName | $priorityNumber"
+        # Replace in schema
+        $content = $content -replace '"name": "Army Dog Center [^"]+",', "`"name`": `"Army Dog Center $cityName`","
+        $content = $content -replace 'services\.armydogcenter\.net\.pk/badin\.php', "services.armydogcenter.net.pk/$phpFileName.php"
+        
+        # Handle contact numbers based on priority
+        # Use single-line mode for multiline matching
+        $options = [System.Text.RegularExpressions.RegexOptions]::Singleline
+        if ($priorityNumber -eq "03003406220") {
+            # Template has: first=03003406220, second=03332874135
+            # We need: first=03003406220 (priority), second=03003006220
+            # First contact stays the same, just replace second contact
+            # Replace second contact href
+            $content = $content -replace 'href="tel:03332874135"', "href=`"tel:$secondContact`""
+            # Replace second contact span - match span after the second contact href
+            $pattern = "(href=`"tel:$secondContact`"[^>]*>.*?<span>)03332874135(</span>)"
+            $content = [regex]::Replace($content, $pattern, "`${1}$secondContact`$2", $options)
+        } elseif ($priorityNumber -eq "03332874135") {
+            # Template has: first=03003406220, second=03332874135
+            # We need: first=03332874135 (priority), second=03003006220
+            # Replace second contact first (to avoid conflicts)
+            $content = $content -replace 'href="tel:03332874135"', "href=`"tel:$secondContact`""
+            # Replace second contact span
+            $pattern = "(href=`"tel:$secondContact`"[^>]*>.*?<span>)03332874135(</span>)"
+            $content = [regex]::Replace($content, $pattern, "`${1}$secondContact`$2", $options)
+            # Now replace first contact href
+            $content = $content -replace 'href="tel:03003406220"', "href=`"tel:$priorityNumber`""
+            # Replace first contact span
+            $pattern = "(href=`"tel:$priorityNumber`"[^>]*>.*?<span>)03003406220(</span>)"
+            $content = [regex]::Replace($content, $pattern, "`${1}$priorityNumber`$2", $options)
         }
-    }
-    return $null
-}
-
-# Function to get contact numbers based on priority
-function Get-ContactNumbers {
-    param($priority)
-    
-    if ($priority -eq "03008977885") {
-        return @("03003006220", "03332874135")
-    } elseif ($priority -eq "03003006220") {
-        return @("03332874135", "03003406220")
-    }
-    return @()
-}
-
-# Function to get city display name from file name
-function Get-CityDisplayName {
-    param($cityFile)
-    
-    # Convert file name to display name (e.g., "army-dog-center" -> "Army Dog Center")
-    $parts = $cityFile -split '-'
-    $displayName = ($parts | ForEach-Object { 
-        $_.Substring(0,1).ToUpper() + $_.Substring(1).ToLower() 
-    }) -join ' '
-    
-    return $displayName
-}
-
-# Process each of the last 3 entries
-foreach ($entry in $last3Entries) {
-    $info = Extract-CityInfo $entry
-    if ($info) {
-        $cityFile = $info.CityFile
-        $priority = $info.Priority
-        $cityDisplay = Get-CityDisplayName $cityFile
-        $contacts = Get-ContactNumbers $priority
         
-        Write-Host "Processing: $cityFile (Priority: $priority, Display: $cityDisplay)"
+        # Replace in call-to-action button (should be priority number)
+        $content = $content -replace 'href="tel:03003406220"', "href=`"tel:$priorityNumber`""
         
-        # Read the template
-        $template = Get-Content "badin.php" -Raw
-        
-        # STEP 1: Replace city name first (to avoid conflicts)
-        $template = $template -replace '\bBadin\b', $cityDisplay
-        $template = $template -replace '\bbadin\b', $cityFile
-        
-        # STEP 2: Replace priority number (03003006220) in specific contexts only (before contact numbers)
-        # In title
-        $template = $template -replace 'Army Dog Center [^|]+\| 03003006220', "Army Dog Center $cityDisplay | $priority"
-        # In header
-        $template = $template -replace '<b class="text-blue-500">03003006220</b>', "<b class=`"text-blue-500`">$priority</b>"
-        # In og:title
-        $template = $template -replace 'content="Army Dog Center [^|]+\| 03003006220"', "content=`"Army Dog Center $cityDisplay | $priority`""
-        # In twitter:title
-        $template = $template -replace 'name="twitter:title" content="Army Dog Center [^|]+\| 03003006220"', "name=`"twitter:title`" content=`"Army Dog Center $cityDisplay | $priority`""
-        
-        # STEP 3: Replace contact numbers AFTER priority replacement
-        # Replace first contact number (03456826761) - replace both tel: and display
-        $template = $template -replace 'href="tel:03456826761"', "href=`"tel:$($contacts[0])`""
-        $template = $template -replace '>03456826761<', ">$($contacts[0])<"
-        # Replace second contact number (03003406220) - replace both tel: and display
-        # Use -replace with proper escaping
-        $template = $template -replace 'href="tel:03003406220"', "href=`"tel:$($contacts[1])`""
-        $template = $template -replace '>03003406220<', ">$($contacts[1])<"
-        
-        # STEP 4: Replace image paths (sindh -> kpk, use lowercase cityFile)
-        # Need to handle both "badin" and the replaced city name
-        $template = $template -replace '/sindh/[^/"]+\.jpeg', "/kpk/$cityFile.jpeg"
-        $template = $template -replace '/sindh/', "/kpk/"
-        
-        # STEP 5: Replace URL in meta tags and schema (use lowercase cityFile)
-        $template = $template -replace 'services\.armydogcenter\.org\.pk/[Bb]adin\.php', "services.armydogcenter.org.pk/$cityFile.php"
-        
-        # STEP 6: Replace Call to Action phone number (03332874135 -> priority)
-        # Only if it's still there (might have been replaced already)
-        $template = $template -replace 'href="tel:03332874135"', "href=`"tel:$priority`""
+        # Update image src to use the new format: https://www.armydogcenter.net.pk/images/services/kpk/{city}.jpeg
+        $imageSrc = "https://www.armydogcenter.net.pk/images/services/kpk/$phpFileName.jpeg"
+        $content = $content -replace 'src="https://armydogcenter\.net\.pk/images/dogcard-6\.webp"', "src=`"$imageSrc`""
         
         # Write to pages folder
-        $outputPath = "pages\$cityFile.php"
-        $template | Set-Content $outputPath -Encoding UTF8
-        Write-Host "Created: $outputPath"
+        $outputFile = Join-Path $pagesFolder "$phpFileName.php"
+        $content | Set-Content $outputFile -Encoding UTF8
+        
+        Write-Host "Created: $outputFile"
+        $count++
+    } else {
+        Write-Warning "Line did not match pattern: $line"
     }
 }
 
-Write-Host "`nPage creation completed!"
-
+Write-Host "`nFirst $limit pages created successfully!"
