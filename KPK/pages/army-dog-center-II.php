@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- SEO Optimization -->
-    <title>Army Dog Center PAKISTAN | 03003406220</title>
+    <title>Army Dog Center | 03332874135</title>
     <meta
       name="description"
       content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔"
@@ -22,7 +22,7 @@
     <!-- Open Graph / Social Media -->
     <meta
       property="og:title"
-      content="Army Dog Center PAKISTAN | 03003406220"
+      content="Army Dog Center | 03332874135"
     />
     <meta
       property="og:description"
@@ -30,7 +30,7 @@
     />
     <meta
       property="og:url"
-      content="https://services.armydogcenter.net.pk/pakistan-III.php"
+      content="https://services.armydogcenter.net.pk/army-dog-center-II.php"
     />
     <meta property="og:type" content="website" />
     <meta
@@ -39,14 +39,14 @@
     />
     <meta
       property="og:site_name"
-      content="Army Dog Center PAKISTAN | 03003406220"
+      content="Army Dog Center | 03332874135"
     />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
     <meta
       name="twitter:title"
-      content="Army Dog Center PAKISTAN | 03003406220"
+      content="Army Dog Center | 03332874135"
     />
     <meta
       name="twitter:description"
@@ -69,7 +69,7 @@
     />
     <link
       rel="canonical"
-      href="https://services.armydogcenter.net.pk/pakistan-III.php"
+      href="https://services.armydogcenter.net.pk/army-dog-center-II.php"
     />
 
     <!-- Google Fonts -->
@@ -109,20 +109,20 @@
         "@graph": [
           {
             "@type": "WebSite",
-            "name": "Army Dog Center PAKISTAN",
-            "url": "https://services.armydogcenter.net.pk/pakistan-III.php",
+            "name": "Army Dog Center",
+            "url": "https://services.armydogcenter.net.pk/army-dog-center-II.php",
             "potentialAction": {
               "@type": "SearchAction",
-              "target": "https://services.armydogcenter.net.pk/pakistan-III.php",
+              "target": "https://services.armydogcenter.net.pk/army-dog-center-II.php",
               "query-input": "required name=armydogcenter"
             }
           },
           {
             "@type": "WebPage",
-            "@id": "https://services.armydogcenter.net.pk/pakistan-III.php#webpage",
-            "url": "https://services.armydogcenter.net.pk/pakistan-III.php",
-            "name": "Army Dog Center PAKISTAN",
-            "description": "We provide professional dog services in PAKISTAN including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
+            "@id": "https://services.armydogcenter.net.pk/army-dog-center-II.php#webpage",
+            "url": "https://services.armydogcenter.net.pk/army-dog-center-II.php",
+            "name": "Army Dog Center",
+            "description": "We provide professional dog services including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
             "about": { "@id": "https://armydogcenter.net.pk/#organization" },
             "inLanguage": "en-US"
           }
@@ -141,7 +141,7 @@
           ARMY DOG CENTER
         </h1>
         <h2 class="text-3xl md:text-4xl font-semibold">
-          PAKISTAN <br> 03003406220
+          PAKISTAN <br> 03332874135
         </h2>
       </div>
     </header>
@@ -159,7 +159,7 @@
           robbery, murder, and abduction.
         </p>
         <p class="text-gray-700 font-medium">
-          We at Army Dog Center PAKISTAN are ready to serve you 24/7. Contact us
+          We at Army Dog Center are ready to serve you 24/7. Contact us
           for immediate assistance:
         </p>
       </div>
@@ -177,11 +177,7 @@
           </h3>
           <div class="flex flex-wrap justify-center gap-4 md:gap-6 text-2xl">
             <a
-<<<<<<< HEAD
-              href="tel:03003406220"
-=======
-              href="tel:03332874135"
->>>>>>> origin/service_pages
+              href="tel:03456826761"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -198,11 +194,7 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-<<<<<<< HEAD
-              <span>03003406220</span>
-=======
-              <span>03332874135</span>
->>>>>>> origin/service_pages
+              <span>03456826761</span>
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >
@@ -220,7 +212,7 @@
                 </svg>
               </span>
             </a>
-            <a
+               <a
               href="tel:03003006220"
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
@@ -256,6 +248,7 @@
                 </svg>
               </span>
             </a>
+         
           </div>
         </div>
       </div>
@@ -270,7 +263,7 @@
              class="h-full w-88 relative group overflow-hidden rounded-xl shadow-xl transform transition-transform duration-300 hover:scale-105"
             >
               <img
-                src="https://www.armydogcenter.net.pk/images/services/kpk/pakistan-III.jpeg"
+                src="https://www.armydogcenter.net.pk/images/services/kpk/army-dog-center-II.jpeg"
                 alt="German Shepherd Dog"
                 class="w-full h-full object-cover"
               />
@@ -517,7 +510,7 @@
             Contact us now for immediate response.
           </p>
           <a
-            href="tel:03003406220"
+            href="tel:03332874135"
             class="inline-block bg-white text-teal-500 font-bold py-3 px-8 rounded-lg shadow-md hover:bg-cyan-50 transition duration-300 transform hover:-translate-y-1 hover:shadow-lg"
           >
             Call Now

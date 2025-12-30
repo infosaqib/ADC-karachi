@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <head>
     <meta charset="UTF-8" />
@@ -14,6 +15,8 @@
              
             ">
 =======
+=======
+>>>>>>> origin/service_pages
   <head>
     <meta charset="UTF-8" />
     <meta
@@ -28,6 +31,9 @@
       name="description"
       content="چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔"
     />
+<<<<<<< HEAD
+>>>>>>> origin/service_pages
+=======
 >>>>>>> origin/service_pages
     <meta name="robots" content="index, follow" />
 
@@ -35,6 +41,7 @@
     <meta name="google-site-verification" content="" />
 
     <!-- Open Graph / Social Media -->
+<<<<<<< HEAD
 <<<<<<< HEAD
     <meta property="og:title" content="Army Dog Center Haripur Hazara | 03003006220" />
     <meta property="og:description" content="        
@@ -56,6 +63,8 @@
     <link rel="apple-touch-icon" href="https://armydogcenter.org.pk/images/logo.webp" />
     <link rel="canonical" href="https://services.armydogcenter.org.pk/haripur-hazara.php" />
 =======
+=======
+>>>>>>> origin/service_pages
     <meta
       property="og:title"
       content="Army Dog Center HARIPUR HAZARA | 03332874135"
@@ -66,7 +75,11 @@
     />
     <meta
       property="og:url"
+<<<<<<< HEAD
       content="https://services.armydogcenter.net.pk/HARIPUR HAZARA.php"
+=======
+      content="https://services.armydogcenter.net.pk/haripur-hazara.php"
+>>>>>>> origin/service_pages
     />
     <meta property="og:type" content="website" />
     <meta
@@ -105,7 +118,12 @@
     />
     <link
       rel="canonical"
+<<<<<<< HEAD
       href="https://services.armydogcenter.net.pk/HARIPUR HAZARA.php"
+    />
+>>>>>>> origin/service_pages
+=======
+      href="https://services.armydogcenter.net.pk/haripur-hazara.php"
     />
 >>>>>>> origin/service_pages
 
@@ -113,13 +131,19 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet" />
 =======
+=======
+>>>>>>> origin/service_pages
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
     />
+<<<<<<< HEAD
+>>>>>>> origin/service_pages
+=======
 >>>>>>> origin/service_pages
     <!-- AOS library -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
@@ -127,6 +151,7 @@
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+<<<<<<< HEAD
 <<<<<<< HEAD
         body {
             font-family: 'Poppins', sans-serif;
@@ -143,6 +168,8 @@
             },
         };
 =======
+=======
+>>>>>>> origin/service_pages
       body {
         font-family: 'Poppins', sans-serif;
       }
@@ -157,12 +184,16 @@
           },
         },
       };
+<<<<<<< HEAD
+>>>>>>> origin/service_pages
+=======
 >>>>>>> origin/service_pages
     </script>
     <!-- No component styles, using direct Tailwind classes instead -->
 
     <!-- Schema Markup -->
     <script type="application/ld+json">
+<<<<<<< HEAD
 <<<<<<< HEAD
     {
         "@context":"https://schema.org",
@@ -215,23 +246,37 @@
             </h2>
         </div>
 =======
+=======
+>>>>>>> origin/service_pages
       {
         "@context": "https://schema.org",
         "@graph": [
           {
             "@type": "WebSite",
             "name": "Army Dog Center HARIPUR HAZARA",
+<<<<<<< HEAD
             "url": "https://services.armydogcenter.net.pk/HARIPUR HAZARA.php",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "https://services.armydogcenter.net.pk/HARIPUR HAZARA.php",
+=======
+            "url": "https://services.armydogcenter.net.pk/haripur-hazara.php",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://services.armydogcenter.net.pk/haripur-hazara.php",
+>>>>>>> origin/service_pages
               "query-input": "required name=armydogcenter"
             }
           },
           {
             "@type": "WebPage",
+<<<<<<< HEAD
             "@id": "https://services.armydogcenter.net.pk/HARIPUR HAZARA.php#webpage",
             "url": "https://services.armydogcenter.net.pk/HARIPUR HAZARA.php",
+=======
+            "@id": "https://services.armydogcenter.net.pk/haripur-hazara.php#webpage",
+            "url": "https://services.armydogcenter.net.pk/haripur-hazara.php",
+>>>>>>> origin/service_pages
             "name": "Army Dog Center HARIPUR HAZARA",
             "description": "We provide professional dog services in HARIPUR HAZARA including crime investigation, evidence detection, and security services with trained dogs available 24/7.",
             "about": { "@id": "https://armydogcenter.net.pk/#organization" },
@@ -252,7 +297,13 @@
           ARMY DOG CENTER
         </h1>
         <h2 class="text-3xl md:text-4xl font-semibold">
+<<<<<<< HEAD
           HARIPUR HAZARA <br> 03003406220
+        </h2>
+      </div>
+>>>>>>> origin/service_pages
+=======
+          HARIPUR HAZARA <br> 03332874135
         </h2>
       </div>
 >>>>>>> origin/service_pages
@@ -260,6 +311,7 @@
 
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto p-4 md:p-8">
+<<<<<<< HEAD
 <<<<<<< HEAD
 
       <!-- Dog Image Section -->
@@ -487,6 +539,8 @@
             </div>
         </div>
 =======
+=======
+>>>>>>> origin/service_pages
       <!-- Service Description -->
       <div
         data-aos="fade-up"
@@ -516,7 +570,11 @@
           </h3>
           <div class="flex flex-wrap justify-center gap-4 md:gap-6 text-2xl">
             <a
+<<<<<<< HEAD
               href="tel:03332874135"
+=======
+              href="tel:03003006220"
+>>>>>>> origin/service_pages
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -533,7 +591,11 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
+<<<<<<< HEAD
               <span>03332874135</span>
+=======
+              <span>03003006220</span>
+>>>>>>> origin/service_pages
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >
@@ -552,7 +614,11 @@
               </span>
             </a>
             <a
+<<<<<<< HEAD
               href="tel:03332874135"
+=======
+              href="tel:03456826761"
+>>>>>>> origin/service_pages
               class="bg-gradient-to-r from-teal-300 to-teal-500 hover:from-teal-500 hover:to-teal-300 text-white font-bold py-3 px-6 rounded-lg flex items-center justify-between transition duration-300 group shadow-md hover:shadow-lg transform hover:-translate-y-1"
             >
               <svg
@@ -569,7 +635,11 @@
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
+<<<<<<< HEAD
               <span>03332874135</span>
+=======
+              <span>03456826761</span>
+>>>>>>> origin/service_pages
               <span
                 class="opacity-0 ml-2 transform translate-x-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1"
               >
@@ -855,12 +925,16 @@
           </a>
         </div>
       </div>
+<<<<<<< HEAD
+>>>>>>> origin/service_pages
+=======
 >>>>>>> origin/service_pages
     </main>
 
     <!-- Footer -->
     <?php include_once("../includes/footer.php"); ?>
     <script>
+<<<<<<< HEAD
 <<<<<<< HEAD
         AOS.init({
             startEvent: "DOMContentLoaded",
@@ -874,6 +948,8 @@
 
 </html>
 =======
+=======
+>>>>>>> origin/service_pages
       AOS.init({
         startEvent: "DOMContentLoaded",
         offset: 120,
@@ -883,5 +959,9 @@
       });
     </script>
   </body>
+<<<<<<< HEAD
+</html>
+>>>>>>> origin/service_pages
+=======
 </html>
 >>>>>>> origin/service_pages
