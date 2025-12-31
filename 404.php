@@ -58,6 +58,7 @@
                     </svg>
                     <div class="block text-center mt-5">
                       <h5 class="md:text-xl text-lg leading-8 text-gray-900 font-medium mb-1.5"><span class="text-indigo-600 font-semibold ">Oops!</span> It seems like you've taken a wrong turn</h5>
+                      <p class="text-sm text-gray-500">Thanks for Waiting...</p>
                       <p class="text-sm text-gray-500">We're working to bring it back.</p>
                     </div>
                 </div>
