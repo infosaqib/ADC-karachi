@@ -11,10 +11,6 @@
     <title>Army Dog Center Karachi | 03003406220, 03332874135 </title>
      <meta name="description" content="        چوری، ڈکیتی، اور دیگر ہنگامی حالات میں مدد کے لیے تیار۔ ہمارے تربیت یافتہ کتے ثبوت اور سراغ تلاش کرنے میں مدد کرتے ہیں۔ 24/7 دستیاب، کہیں بھی اور جب بھی آپ کو ضرورت ہو، آپ کے اطمینان کے لیے ہماری سرشار ٹیم ہمیشہ موجود ہے۔  ">
         <meta name="robots" content="index, follow">
-        
-        
-        <!-- Google Site Verification -->
-        <meta name="google-site-verification" content="" />
 
     <!-- Open Graph / Social Media -->
     <meta property="og:title" content="Army Dog Center Karachi | 03003406220, 03332874135">
